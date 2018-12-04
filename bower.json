@@ -1,0 +1,13 @@
+{
+  "name": "activestorage",
+  "version": "5.2.1.1",
+  "main": "dist/activestorage.js",
+  "ignore": [
+    "bower.json",
+    "package.json",
+    "CHANGELOG.md"
+  ],
+  "dependencies": {
+    "spark-md5": "^3.0.0"
+  }
+}
